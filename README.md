@@ -1,1 +1,2 @@
-# lush
+#### lush   
+###### mobile only
